@@ -5,4 +5,4 @@ Assignment #1 [video](https://youtu.be/gIdV1atpJQ0), [code](https://github.com/B
 
 Assignment #2 [project](https://video-feedback-poroject.glitch.me/), [repo](https://glitch.com/edit/#!/video-feedback-poroject), [explanation](https://docs.google.com/document/d/1N_F309hXyAULmiQFH_C7c7l2EFxKBAxkU7cesFnN54I/edit?usp=sharing).
 
-Assignment #3 [project](). [repo](). [explanation]().
+Assignment #3 [project](), [repo](), [explanation]().
